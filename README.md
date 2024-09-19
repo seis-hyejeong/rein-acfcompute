@@ -1,6 +1,7 @@
 *README file under construction*
 
 Synthetic computation of autocorrelation functions with assumed smoothing width and signal to noise ratio.
+This set of code is related to our REIN (REverberation waveform INversion) repository. https://github.com/seis-hyejeong/rein.git (yet private as of Sept. 20, 2024)
 
 Please cite this repository and one of following papers when you use this code. Some details can be found from the papers too.
 
