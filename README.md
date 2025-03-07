@@ -10,5 +10,6 @@ Teleseismic RF, P-wave Radial Component, and Radial-, Vertical-, and Pressure-co
 2) Kim, HJ., H. Kawakatsu, T. Akuhara, N. Takeuchi, T. Isse, H. Shiobara, H. Sugioka, H. Utada, YH Kim, S-M Lee (2024), Application of the reverberation waveform inversion for the high-resolution sediment layer structure in the Pacific Geophys. Jour. Inter., in revision.
 
 Joint inversion of RF, Rayleigh wave Phase velocity, Rayleigh wave ellipticity
+
 3) Kim, HJ., Lin, F.-C., Pechmann, J., Hardwick, C., & McKean, A. (2025; under review) Seismic Imaging of the Salt Lake Basin Using Joint Inversion of Receiver Functions and Rayleigh Wave Data. Journal of Geophysical Research: Solid Earth
 
